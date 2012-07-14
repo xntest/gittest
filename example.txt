@@ -1,2 +1,2 @@
 just example file
-ec
+ec2
