@@ -1,2 +1,1 @@
-just example file
-ec2
+Just example cleaned file from main branch.

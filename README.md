@@ -1,8 +1,8 @@
 gittest
 =======
-Readme ver. 1.0b
+Readme ver. 1.0c
 
 just for testing, nothing important
 
-added tag (and noticed it in readme file)
-
+<cleaned>
+Main Branch
