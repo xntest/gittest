@@ -9,3 +9,4 @@ Just for testing, nothing important.
     c. else if b reached false state goto z1
     z1. nothing here
 a1-c
+b1
