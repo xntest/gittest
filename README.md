@@ -8,3 +8,4 @@ Just for testing, nothing important.
     b. pointer to a
     c. else if b reached false state goto z1
     z1. nothing here
+a1-c
